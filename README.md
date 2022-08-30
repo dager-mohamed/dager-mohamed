@@ -1,4 +1,4 @@
-<h1>Developer of Semibot <img src="https://media.discordapp.net/attachments/806571163207336008/1000529692589301860/semibot.png?width=473&height=473" width="30" /> <br/> Contributor at Vallt.xyz</h1>
+<h1>Contributor at Vallt.xyz</h1>
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dager-moahamed&label=Profile%20views&color=0e6cb4&style=flat-square" /> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dager-mohamed&show_icons=true&theme=dark&locale=en&layout=compact" /></p>
