@@ -12,6 +12,6 @@
 </td></tr></table>  
 
 
-![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=laohg13oiulskbb87qggxwbtr&cover_image=true&theme=default&show_offline=false&background_color=121212)
+[![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=laohg13oiulskbb87qggxwbtr&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://spotify-github-profile.vercel.app)
 <br />
 
