@@ -1,4 +1,4 @@
-# Chief Executive officer & Founder @ Semibot
+# Fullstack web developer
 <table><tr><td valign="top" width="50%">
 
 <img src="https://grs.quantumly.dev/api/?username=dager-mohamed&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" align="left" style="width: 100%" />  
